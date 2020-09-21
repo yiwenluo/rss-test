@@ -1,0 +1,40 @@
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+
+    <title>RAN_RAN_RAN.FM</title>
+    <itunes:subtitle>RAN RAN RAN</itunes:subtitle>
+    <link>https://yiwenluo.me</link>
+    <atom:link href="https://yiweluo.me/rss-test/rss.xml" rel="self" type="application/rss+xml"/>
+    <description>Test RSS Forwarding</description>
+    <language>zh-CN</language>
+    <itunes:category text="Game">
+    </itunes:category>
+    <itunes:category text="Technology">
+    </itunes:category>
+    <itunes:image href="https://yiwenluo.me/acnh-wtc/assets/fish/koi.png"/>
+    <itunes:keywords>设计</itunes:keywords>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:author>JK</itunes:author>
+    <itunes:owner>
+    <itunes:name>JL</itunes:name>
+    <itunes:email>lyw891011@gmail.com</itunes:email>
+    </itunes:owner>
+    <item>
+      <title>
+      <![CDATA[ №115: 我认识的 A Ink ]]>
+      </title>
+      <description>
+      <![CDATA[ <p>喜欢看闲书 ]]>
+      </description>
+      <link>https://anyway.fm/e-ink/</link>
+      <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="true">https://anyway.fm/e-ink/</guid>
+      <author>JJ Ying、Leon Gao</author>
+      <pubDate>Wed, 16 Sep 2020 04:54:50 +0800</pubDate>
+      <enclosure type="audio/mpeg" url="https://a.anw.red/audio/anyway-115.mp3"/>
+      <itunes:duration>3726</itunes:duration>
+      <itunes:image href="https://s.anw.red/images/poster-115.jpg"/>
+    </item>
+
+  </channel>
+</rss>
